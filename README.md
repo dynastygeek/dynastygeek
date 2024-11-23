@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dynastygeek
 - 👀 I’m interested in coding and machine learning algorithms.
-- 🌱 I’m currently learning electronics and telecommuication 
+- 🌱 I’m currently focusing on electronics and telecommuication 
 - 💞️ I’m looking to collaborate on projects based on AI
 - 📫 How to reach me prachilahane9@gmail.com
 
